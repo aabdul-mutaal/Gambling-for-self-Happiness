@@ -1,4 +1,4 @@
-Gambling for Self-Happiness
+<h1>Gambling for Self-Happiness<h1>
 A specialized browser extension designed to gamify personal well-being by managing mental health resources through interactive unboxing mechanics. This project serves as a creative metaphor for resource management, allowing users to "roll" for positive reinforcement and self-care items.
 
 🚀 Key Features
