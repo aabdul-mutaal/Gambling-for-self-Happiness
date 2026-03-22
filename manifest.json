@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "Gambling for Self-Happiness",
+  "version": "4.2",
+  "description": "A wholesome version of loot boxes designed to provide you happiness.",
+  "action": { "default_popup": "popup.html" },
+  "icons": { "16": "icon.png", "48": "icon.png", "128": "icon.png"},
+  "permissions": ["storage", "windows"],
+  "web_accessible_resources": [
+    {
+      "resources": ["ohnegold.mp3", "yippee.mp3", "waaaaaah.mp3"],
+      "matches": ["<all_urls>"]
+    }
+  ]
+}
